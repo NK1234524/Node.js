@@ -1,3 +1,3 @@
-let fruitname = require("./fruits");
+let fruitname = require("./Fruits");
 
 console.log(fruitname);
